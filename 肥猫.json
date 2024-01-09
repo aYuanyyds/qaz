@@ -31,7 +31,7 @@
       "filterable": 1
     },
     {
-      "key": "*ys6",
+      "key": "ys6",
       "name": "🈴影视6",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
@@ -40,7 +40,7 @@
       "filterable": 0
     },
     {
-      "key": "*ys77",
+      "key": "ys77",
       "name": "🈴影视7",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
@@ -49,7 +49,7 @@
       "filterable": 0
     },
     {
-      "key": "*ys8",
+      "key": "ys8",
       "name": "🈴影视8",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
