@@ -31,6 +31,33 @@
       "filterable": 1
     },
     {
+      "key": "*ys6",
+      "name": "🈴影视6",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*ys7",
+      "name": "🈴影视7",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*ys8",
+      "name": "🈴影视8",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "push_agent",
       "name": "熊猫宝贝",
       "type": 3,
