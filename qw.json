@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃豆瓣┃微信公众号：肥猫宝贝",
+      "name": "🐼┃豆瓣┃宝贝",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -50,12 +50,108 @@
     },
  {
       "key": "坤资源",
-      "name": "影视5",
+      "name": "🈴影视5",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+  {
+      "key": "dadiapi1.com",
+      "name": "🈶成人01",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+  },
+    {
+      "key": "91md.me",
+      "name": "🈶成人05",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+  {
+      "key": "bttcj.com",
+      "name": "🈶成人07",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+   {
+      "key": "api.maozyapi.com",
+      "name": "🈶成人33",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+  {
+      "key": "pgxdy.com",
+      "name": "🈶成人39",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+  {
+      "key": "msnii.com",
+      "name": "🈶成人40",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+   {
+      "key": "xrbsp.com",
+      "name": "🈶成人46",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+ {
+      "key": "kxgav.com",
+      "name": "🈶成人48",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
     },
  {
       "key": "gdlsp.com",
@@ -70,13 +166,58 @@
       }
     },
     {
-      "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
+      "key": "10",
+      "name": "-----------------",
+      "api": "1",
       "type": 3,
-      "api": "csp_PushAgent",
-      "playerType": "1",
+      "filterable": 0,
+      "quickSearch": 0,
+      "searchable": 0
+    },
+   {
+      "key": "11",
+      "name": "-----------------",
+      "api": "1",
+      "type": 3,
+      "filterable": 0,
+      "quickSearch": 0,
+      "searchable": 0
+    },
+ {
+      "key": "博",
+      "name": "🏆福利1",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "quickSearch": 0
+    },
+    {
+      "key": "*香资源",
+      "name": "🏆福利2",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+ {
+      "key": "22",
+      "name": "📛注意左侧来车📛",
+      "api": "1",
+      "type": 3,
+      "filterable": 0,
+      "quickSearch": 0,
+      "searchable": 0
+    },
+ {
+      "key": "22",
+      "name": "🚸注意右侧来人🚸",
+      "api": "1",
+      "type": 3,
+      "filterable": 0,
+      "quickSearch": 0,
+      "searchable": 0
+    },
     }
   ],
   "parses": [
