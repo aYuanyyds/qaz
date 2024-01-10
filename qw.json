@@ -12,6 +12,15 @@
       "changeable": 0,
       "ext": "./lib/豆瓣推荐.js"
     },
+     {
+      "key": "44",
+      "name": "🔑直播暗号5896",
+      "api": "1",
+      "type": 3,
+      "filterable": 0,
+      "quickSearch": 0,
+      "searchable": 0
+    },
     {
       "key": "老鸭",
       "name": "🈵影视1",
@@ -209,14 +218,14 @@
       "quickSearch": 0,
       "searchable": 0
     },
- {
-      "key": "22",
+        {
+      "key": "push_agent",
       "name": "🚸注意右侧来人🚸",
-      "api": "1",
       "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
+      "api": "csp_PushAgent",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
   "parses": [
