@@ -413,7 +413,7 @@
       "filterable": 1
     },
      {
-      "key": "xrbsp.com",
+      "key": "1xrbsp.com",
       "name": "成人30",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
@@ -421,7 +421,7 @@
       "filterable": 1
     },
      {
-      "key": "msnii.com",
+      "key": "1msnii.com",
       "name": "成人32",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
@@ -429,7 +429,7 @@
       "filterable": 1
     },
       {
-      "key": "gdlsp.com",
+      "key": "1gdlsp.com",
       "name": "成人38",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
